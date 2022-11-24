@@ -14,6 +14,9 @@ N/A
 
 To use this Module, you can review the notes in each section. Checking HTML markup standard is recommended by using W3's online validator via: https://validator.w3.org/ .
 
+## Demo
+
+To see a live demo please visit: https://kianamsqt.github.io/module-1-challenge/ .
 ## Credits
 
 N/A
