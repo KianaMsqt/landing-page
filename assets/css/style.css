@@ -1,3 +1,4 @@
+/* Apply border-box sizing, and remove padding and margin from all elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Style links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -27,7 +29,7 @@ p {
     margin-left: 25px;
 }
 
-/* ***** Header ***** */
+/* Header styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -61,6 +63,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Hero section styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,9 +72,9 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-/* Header */
 
-/* ***** Content ***** */
+
+/* Content section styles */
 .content {
     width: 75%;
     display: inline-block;
@@ -95,9 +98,9 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Content */
 
-/* ***** Aside ***** */
+
+/* Aside section styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,9 +127,9 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Aside */
 
-/* ***** Footer ***** */
+
+/* Footer section styles */
 .footer {
     padding: 30px;
     clear: both;
@@ -137,4 +140,3 @@ header nav ul li {
 .footer span {
     font-size: 20px;
 }
-/* Footer */
